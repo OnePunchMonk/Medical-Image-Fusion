@@ -1,0 +1,5 @@
+Evaluation Results:
+L1 Loss: 0.0590
+L2 Loss: 0.0178
+PSNR: 20.8359 dB
+SSIM: 0.3959
